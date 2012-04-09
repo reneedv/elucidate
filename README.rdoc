@@ -1,6 +1,13 @@
 = elucidate
 
-Description goes here.
+elucidate is a Ruby gem that gives nice names to things, like true to english is Yes.
+
+== Usage
+
+* gem install elucidate
+* true.to_english => 'Yes'
+* false.to_english => 'No'
+* nil.to_english => 'Not Set'
 
 == Contributing to elucidate
  
