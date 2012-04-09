@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/reneedv/elucidate"
   gem.license = "MIT"
   gem.summary = %Q{elucidate is a Ruby gem that gives nice names to things.}
-  gem.description = %Q{TODO: elucidate is a Ruby gem that gives nice names to things, like true to english is Yes.}
+  gem.description = %Q{elucidate is a Ruby gem that gives nice names to things, like true to english is Yes.}
   gem.email = "renee.devoursney@gmail.com"
   gem.authors = ["Renée De Voursney"]
   # dependencies defined in Gemfile
