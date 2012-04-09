@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Rene\314\201e De Voursney"]
   s.date = "2012-04-09"
-  s.description = "TODO: elucidate is a Ruby gem that gives nice names to things, like true to english is Yes."
+  s.description = "elucidate is a Ruby gem that gives nice names to things, like true to english is Yes."
   s.email = "renee.devoursney@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "elucidate.gemspec",
     "lib/elucidate.rb",
     "test/helper.rb",
     "test/test_elucidate.rb"
