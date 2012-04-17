@@ -3,7 +3,7 @@
 elucidate is a Ruby gem that gives nice names to things, like true to english is Yes.
 
 Build Status:
-"!https://secure.travis-ci.org/reneedv/elucidate.png!":http://travis-ci.org/reneedv/elucidate
+{<img src="https://secure.travis-ci.org/reneedv/elucidate.png" />}[http://travis-ci.org/reneedv/elucidate]
 
 == Usage
 
