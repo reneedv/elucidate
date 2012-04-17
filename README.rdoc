@@ -2,12 +2,20 @@
 
 elucidate is a Ruby gem that gives nice names to things, like true to english is Yes.
 
+Build Status:
+"!https://secure.travis-ci.org/reneedv/elucidate.png!":http://travis-ci.org/reneedv/elucidate
+
 == Usage
 
 * gem install elucidate
 * true.to_english => 'Yes'
 * false.to_english => 'No'
 * nil.to_english => 'Not Set'
+* 'Yes'.english_to_code => true 
+* 'No'.english_to_code => false
+* 'no'.english_to_code => false (Not case sensitive! W00t!)
+* 'Not Set'.english_to_code => nil
+* ''.english_to_code => nil
 
 == Contributing to elucidate
  
