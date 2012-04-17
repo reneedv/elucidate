@@ -26,7 +26,6 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.1.0)
   jeweler (~> 1.8.3)
-  rake
   rdoc (~> 3.12)
   shoulda
   travis-lint
