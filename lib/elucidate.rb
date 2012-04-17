@@ -15,3 +15,11 @@ class NilClass
     "Not Set"
   end
 end
+
+class String
+  def english_to_code
+    test = downcase
+    return nil if test.empty? || test == 'not set'
+     test == 'yes'
+  end
+end
